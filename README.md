@@ -5,7 +5,9 @@ The MultiPDF Chat App is an interactive Python application powered by LangChain 
 ------------
 
 **How It Works**
-------------
+
+<hv>
+
 
 
 
