@@ -1,17 +1,14 @@
 **Overview**
+<hv>
 
 The MultiPDF Chat App is an interactive Python application powered by LangChain that lets you converse with multiple PDF files at once. Instead of manually searching through long reports, case studies, or textbooks, you can simply ask questions in plain English — and the app will retrieve relevant information directly from your documents.
 
-------------
+
 
 **How It Works**
-
 <hv>
 
 
-
-
-------------
 The app processes your questions through the following workflow:
 
 1. PDF Ingestion: Multiple PDF files are uploaded, and their textual content is extracted.
