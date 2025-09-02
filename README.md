@@ -18,7 +18,14 @@ The app processes your questions through the following workflow:
 
 4. Relevance Search: When you ask a question, it is also converted into an embedding and compared against the stored text sections to find the closest matches.
 
-5. Answer Construction: The most relevant sections are fed back into the language model, which generates an answer tailored to the information contained in your PDFs.
+5. Answer Construction: The most relevant sections are fed back into the language model, which generates an answer tailored to the information contained in your PDFs.  
+
+**Application Preview** 
+------------
+Here’s how the MultiPDF Chat App looks when running:
+
+<img width="1463" height="821" alt="Screenshot 2025-09-02 at 8 31 32 AM" src="https://github.com/user-attachments/assets/b74919e2-5efa-47c6-bf0c-73db559829be" />
+
 
 **Dependencies and Installation**
 ------------
